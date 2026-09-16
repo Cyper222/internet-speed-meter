@@ -31,7 +31,7 @@ python3 speed_meter.py "https://example.com/large-image.jpg"
 Готовый пример с большой фотографией на Unsplash (около 3,3 МБ на загрузку):
 
 ```bash
-"https://kartinkof.club/uploads/posts/2022-12/1670401826_kartinkof-club-p-kartinki-neobichnie-so-smislom-1.jpg"
+python3 speed_meter.py "https://kartinkof.club/uploads/posts/2022-12/1670401826_kartinkof-club-p-kartinki-neobichnie-so-smislom-1.jpg"
 ```
 
 Это внешний ресурс: его доступность и размер могут измениться.
